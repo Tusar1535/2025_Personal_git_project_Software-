@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AIRecommendation/AIRecommendation.csproj" />
+  <Project Path="ImporterApp/ImporterApp.csproj" />
+  <Project Path="RecommenderApp/RecommenderApp.csproj" />
+</Solution>
