@@ -1,0 +1,51 @@
+﻿Restaurant ID;Restaurant Name;URL;Special Menu / Highlights;Cuisine Type;Location (Address);Opening Time;Closing Time;Price Range;Notes;Rating
+1;Le Petit Chef - Frankfurt;https://lepetitchef.com/frankfurt/;Interactive dining show;French/European;Bethmannstraße 33, 60311 Frankf.;18:30;22:00;€€€€;Experience + performance;4.8
+2;Panamaa Restaurant & Bar;https://panamaa.de/;Tapas & cocktails;Mediterranean/Bar;Fahrgasse 3, 60311 Frankf.;17:00;00:00;€20–30;Highly rated bar‑restaurant;4.7
+3;Römer Pils Brunnen;http://roemerpilsbrunnen.de/;Local beers & classic dishes;German;Töngesgasse 19, 60311 Frankf.;10:00;00:00;€€;Traditional pub vibe;4.4
+4;Medici;http://www.restaurantmedici.de/;Seasonal tasting menu;Modern European;Weißadlergasse 2, 60311 Frankf.;11:30;22:00;€€€;Highly reviewed dining;4.6
+5;Zu den 12 Aposteln;http://www.12aposteln-frankfurt.de/;Traditional German fare;German Brewery;Rosenbergerstr. 1, 60313 Frankf.;11:00;00:00;€€;Classic German menu;4.5
+6;Frankfurter Wirtshaus;http://frankfurterwirtshaus.de/;Local Apfelwein & schnitzel;German;Mainkai 35, 60311 Frankf.;12:00;22:00;€20–30;Good local cuisine;4.3
+7;Marjan;https://restaurant-marjan.de;Grilled fish & Balkan;Serbo-Croatian/Seafood;Stegstr. 84, 60594 Frankf.;11:30;22:30;€€;Seafood focus;4.7
+8;Trattoria i Siciliani Ristorante Italiano;http://www.trattoriaisiciliani.de/;Authentic Sicilian pasta;Italian;Walter-Kolb-Straße 17, 60594 Frankf.;11:30;23:00;€€;Very highly rated;4.8
+9;Immer Satt;http://www.immer-satt-frankfurt.de;Hearty German classics;German;Robert-Mayer-Str. 41, 60486 Frankf.;11:00;23:00;€€;Casual dining;4.5
+10;Main Tower Restaurant & Lounge;http://www.maintower-restaurant.de/;Panoramic dinner;Fine Dining;Neue Mainzer Str. 52-58, 60311 Frankf.;18:00;00:00;€100+;Skyline location;4.9
+11;Klosterhof;http://www.klosterhof-frankfurt.de/;Bavarian & German classics;German Gastropub;Weißfrauenstr. 3, 60311 Frankf.;11:30;00:00;€€;Pub atmosphere;4.4
+12;Via Monte Napoleone Restaurant;http://www.via-montenapoleone.de/;Italian specialties;Italian;Bockenheimer Landstraße 55, 60325 Frankf.;11:30;14:30 / 18:00;00:00;€€€;4.7
+13;Baseler Eck;—;German comfort food;German;Baseler Platz 7, 60329 Frankf.;17:00;23:00;€€;Cozy local spot;4.5
+14;Im Herzen Afrikas;https://www.imherzenafrikas-frankfurt.de/;Eritrean specialities;Eritrean/African;Gutleutstraße 13, 60329 Frankf.;16:00;23:00;€20–30;Very popular ethnic;4.6
+15;Sèvres;http://www.restaurant-sevres.de/;Elegant French & seasonal;French / German;Hotel Hessischer Hof, 60325 Frankf.;06:30;22:30;€€€;Breakfast to dinner;4.8
+16;Kish Restaurant;https://www.kish-restaurant.de/;Persian grill & kebabs;Persian;Leipziger Str. 16A, 60487 Frankf.;11:30;23:30;€20–30;Local favorite;4.7
+17;SEVEN SWANS;https://www.sevenswans.de/;Vegan gourmet tasting;Vegan Fine Dining;Mainkai 4, 60311 Frankf.;18:30;00:00;€100+;Highly rated vegan;4.9
+18;Fennischfuchser;https://fennischfuchser-frankfurt.de/;Casual German eats;German;Mainzer Landstr. 95, 60329 Frankf.;09:00;22:00;€€;Daytime friendly;4.4
+19;Der Fette Bulle;http://derfettebulle.de/;Burgers & craft drinks;Modern Casual;Kaiserstraße 73, 60329 Frankf.;11:30;23:00;€20–30;Very high reviews;4.7
+20;Bidlabu;https://www.bidlabu.de/;Creative bistro menu;Bistro / Bar;Kleine Bockenheimer Str. 14, 60313 Frankf.;12:00;22:00;€€€;Stylish & small;4.6
+21;L'Olivo;https://www.lolivo.de/;Italian specialties;Italian;Kaiserstr. 10, 60311 Frankf.;12:00;23:00;€€;Cozy Italian dining;4.5
+22;Taste of India;https://www.tasteofindia.de/;Traditional Indian dishes;Indian;Berger Str. 40, 60316 Frankf.;11:30;22:30;€€;Very popular local spot;4.4
+23;The Italian Job;https://www.theitalianjob.de/;Pizza & Pasta;Italian;Oeder Weg 20, 60318 Frankf.;12:00;23:00;€€;Delicious pizza;4.7
+24;Royal Sushi;https://www.royalsushi.de/;Sushi & Japanese fusion;Japanese;Bockenheimer Str. 58, 60325 Frankf.;17:00;00:00;€€;Trendy sushi bar;4.6
+25;Café des Amis;https://www.cafedesamis.de/;Brunch & pastries;French;Schillerstr. 12, 60313 Frankf.;08:00;19:00;€€;Great for brunch;4.3
+26;Trattoria Da Luigi;https://www.trattoriadaluigi.de/;Homemade pasta;Italian;Zeil 45, 60313 Frankf.;12:00;23:00;€€;Family-friendly;4.5
+27;Urban Kitchen;https://www.urbankitchen.de/;Modern fusion dishes;Modern European;Mainzer Landstr. 99, 60329 Frankf.;11:30;22:30;€€€;Contemporary setting;4.2
+28;Green Leaf;https://www.greenleaf.de/;Vegan and vegetarian;Vegan;Berkersheimer Str. 30, 60320 Frankf.;18:00;22:00;€€;Excellent vegan food;4.8
+29;Shabu Shabu;https://www.shabushabu.de/;Japanese hotpot;Japanese;Fressgass 10, 60313 Frankf.;17:00;00:00;€€;Great atmosphere;4.6
+30;Café Eichhorn;https://www.cafeeichhorn.de/;Cakes & coffee;Café;Altstadt 21, 60311 Frankf.;09:00;19:00;€€;Great coffee selection;4.4
+31;La Dolce Vita;https://www.ladolcevita.de/;Italian cuisine;Italian;Ostring 22, 60327 Frankf.;11:30;23:00;€€;Cozy Italian bistro;4.7
+32;Kebab & More;https://www.kebabandmore.de/;Kebab & wraps;Turkish;Mainkai 34, 60311 Frankf.;12:00;23:00;€;Fast casual;4.1
+33;La Piazza;https://www.lapiazza.de/;Mediterranean dishes;Mediterranean;Grosse Bockenheimer Str. 34, 60313 Frankf.;11:30;23:00;€€;Cozy atmosphere;4.6
+34;The Ramen Bar;https://www.theramenbar.de/;Japanese ramen;Japanese;Niedenau 7, 60323 Frankf.;12:00;23:00;€€;Authentic ramen;4.8
+35;Sushi Meister;https://www.sushimeister.de/;Sushi & rolls;Japanese;Gutleutstr. 70, 60327 Frankf.;12:00;22:00;€€;Fresh sushi;4.7
+36;The Burger Lab;https://www.theburgerlab.de/;Gourmet burgers;American;Mainzer Str. 78, 60325 Frankf.;11:30;23:00;€€;Innovative burgers;4.5
+37;Lume;https://www.lume.de/;Fine dining & seasonal;Modern European;Kaiserstr. 65, 60329 Frankf.;18:00;23:00;€€€;Elegant setting;4.9
+38;Zum Kachelofen;https://www.zumkachelofen.de/;Traditional German dishes;German;Am Rebstock 9, 60389 Frankf.;11:00;00:00;€€;Classic German food;4.4
+39;Le Dôme;https://www.ledome.de/;French bistro;French;Freßgass 13, 60311 Frankf.;12:00;23:00;€€€;Elegant dining;4.6
+40;Burgers & Co;https://www.burgersandco.de/;American-style burgers;American;Bleichstr. 22, 60313 Frankf.;11:30;23:00;€€;Great for burgers;4.3
+41;Amici;https://www.amici.de/;Italian pizza & pasta;Italian;Leipziger Str. 11, 60487 Frankf.;12:00;23:00;€€;Authentic pizza;4.6
+42;Tandoori Palace;https://www.tandooripalace.de/;Indian dishes;Indian;Heiligkreuzgasse 13, 60311 Frankf.;11:30;23:00;€€;Excellent Indian food;4.5
+43;Pizzeria Roma;https://www.pizzeriaroma.de/;Pizza & pasta;Italian;Eschersheimer Str. 55, 60322 Frankf.;11:30;23:00;€€;Family-friendly;4.4
+44;Apero;https://www.apero.de/;Mediterranean tapas;Mediterranean;Mainzer Str. 27, 60329 Frankf.;12:00;23:00;€€;Great for sharing;4.7
+45;Salads & Co;https://www.saladsandco.de/;Fresh salads;Healthy;Bockenheimer Landstr. 22, 60325 Frankf.;11:00;22:00;€€;Healthy food;4.5
+46;Alhambra;https://www.alhambra.de/;Moroccan specialties;Moroccan;Breidenbacherstr. 8, 60313 Frankf.;12:00;23:00;€€;Authentic flavors;4.7
+47;Gusto;https://www.gusto.de/;Fine dining & wine pairing;Modern European;Frankfurter Str. 18, 60329 Frankf.;18:00;23:00;€€€;Refined dining;4.9
+48;Otto's Kitchen;https://www.ottoskitchen.de/;Seasonal dishes;German;Alt-Sachsenhausen 45, 60594 Frankf.;12:00;23:00;€€;Cozy atmosphere;4.4
+49;Black Forest Grill;https://www.blackforestgrill.de/;Grilled meats & BBQ;German;Klappergasse 23, 60313 Frankf.;12:00;23:00;€€;Great for BBQ lovers;4.6
+50;Café Central;https://www.cafecentral.de/;Breakfast & pastries;Café;Kaiserstr. 42, 60329 Frankf.;08:00;20:00;€;Breakfast spot;4.2

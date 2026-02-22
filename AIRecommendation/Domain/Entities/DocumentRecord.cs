@@ -8,6 +8,7 @@ public class DocumentRecord
     public string FileType { get; set; } = "";
     public string FilePath { get; set; } = "";
 
+    public string Title { get; set; } = "";
     public string Content { get; set; } = "";   // extracted text
 
     // store embedding as JSON string (easiest for cosine similarity later)

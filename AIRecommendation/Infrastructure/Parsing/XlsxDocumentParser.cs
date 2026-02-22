@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using AIRecommendation.Application.Interfaces;
+using AIRecommendation.Infrastructure.Parsing;
 using ClosedXML.Excel;
 
 namespace AIRecommendation.Infrastructure.Parsing;
@@ -19,11 +20,7 @@ public class XlsxDocumentParser : IDocumentParser
             sb.AppendLine($"[Sheet: {ws.Name}]");
 
             var range = ws.RangeUsed();
-            if (range is null)
-            {
-                sb.AppendLine();
-                continue;
-            }
+            if (range is null) continue;
 
             foreach (var row in range.RowsUsed())
             {
