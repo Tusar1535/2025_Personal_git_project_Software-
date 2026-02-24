@@ -1,4 +1,4 @@
-﻿using ClosedXML.Excel;
+﻿/*using ClosedXML.Excel;
 
 namespace AIRecommendation.Infrastructure.Parsing;
 
@@ -30,4 +30,4 @@ public static class XlsxRowsReader
             yield return dict;
         }
     }
-}
+}*/
